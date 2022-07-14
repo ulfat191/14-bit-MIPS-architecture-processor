@@ -1,0 +1,7 @@
+add $zero,$zero,$tanzil
+addi $zero,$sheam,5
+beq $sheam,$tanzil,3
+add $shanto,$tanzil,$shanto
+addi $tanzil,$tanzil,1
+j 2
+out $shanto
